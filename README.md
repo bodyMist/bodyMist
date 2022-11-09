@@ -22,6 +22,7 @@ Algorithm
 __백준 문제 풀이__
 * [Baekjoon](https://github.com/bodyMist/Algorithm) : Cpp
 
-<div align="center">
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky834459)](https://solved.ac/sky834459)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodyMist&layout=compact"><br><br>
- </div>
