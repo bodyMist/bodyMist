@@ -19,3 +19,6 @@ Algorithm
 __백준 문제 풀이__
 * [Baekjoon](https://github.com/bodyMist/Algorithm) : Cpp
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodyMist&layout=compact"><br><br>
+ </div>
