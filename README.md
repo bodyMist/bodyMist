@@ -2,7 +2,7 @@ Prolog
 ====
 __개발자 블로그__
 __2022.05~2022.11__
-* [api-server](https://github.com/bodyMist/prolog) : SpringBoot, SpringSecurity, JWT, Mysql, Redis
+* [api-server](https://github.com/bodyMist/prolog) : SpringBoot, SpringSecurity, SpringDataJPA, JWT, Mysql, Redis, H2DB
 
 Choice-English
 ====
@@ -15,7 +15,7 @@ Choice-choice
 ====
 __필터링 기반 조립식 컴퓨터 추천 사이트__
 __2021.10~2021.12__
-* [api-server](https://github.com/bodyMist/chois-choice/tree/main/back) : Django, Mysql
+* [api-server](https://github.com/bodyMist/chois-choice/tree/main/back) : Django, Mysql, Redis
 
 Algorithm
 ====
