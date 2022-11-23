@@ -14,7 +14,7 @@ __개발자 블로그__
 __2022.05~2022.11__
 * [api-server](https://github.com/bodyMist/prolog) : SpringBoot, SpringSecurity, SpringDataJPA, JWT, Mysql, Redis, H2DB
 
-### Choice-English   
+### Chois-english   
 __딥러닝 기반 영어 문제 생성 사이트__
 __2022.03~2022.06__
 * [api-server](https://github.com/bodyMist/chois-english-back) : Express, Mogoose, MongoDB
